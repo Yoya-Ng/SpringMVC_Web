@@ -8,8 +8,6 @@
     <body>
         <h1>成功訪問</h1>
         <h1><%=new Date() %></h1>
-        <h1>${bmi}</h1>
-        <hr>
-        <h1>${bmi['bmi_1']}</h1>
+        <h1>${method}</h1>
 </body>
 </html>
